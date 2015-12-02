@@ -18,6 +18,13 @@ Your filepath will be copied to clipboard in the following form:
 /home/readme.md:3-10
 ```
 
+Select one or more line(s), right-click and choose "Copy Reference" to copy relative filepath with lines.
+Your filepath will be copied to clipboard in the following form:
+```
+subfolder/readme.md:3
+subfolder/readme.md:3-10
+```
+
 ## License
 
 All of Sublime Terminal is licensed under the GPL2 license.
@@ -25,7 +32,7 @@ All of Sublime Terminal is licensed under the GPL2 license.
 Copyright (c) 2014 Nick Böcker (email : it@theskyliner.de)
 
 This program is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License, version 2, as 
+it under the terms of the GNU General Public License, version 2, as
 published by the Free Software Foundation.
 
 This program is distributed in the hope that it will be useful,

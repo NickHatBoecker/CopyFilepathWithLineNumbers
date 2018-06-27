@@ -29,7 +29,7 @@ subfolder/readme.md:3-10
 
 All of Sublime Terminal is licensed under the GPL2 license.
 
-Copyright (c) 2014 Nick Böcker (email : it@theskyliner.de)
+Copyright (c) 2014 Nick Böcker (email : info@nick-hat-boecker.de)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as
@@ -43,3 +43,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+
+## Suport
+
+You want to buy me some chocolate milk? Feel free to: https://www.paypal.me/nickHatBoecker

@@ -1,5 +1,8 @@
 # Sublime Text - Copy Filepath With Line Numbers
 
+[![SublimeBadge](http://sublime-badge.nick-hat-boecker.de/badge/total/Copy%20Filepath%20With%20Line%20Numbers.svg/)](http://sublime-badge.nick-hat-boecker.de/) [![SublimeBadge](http://sublime-badge.nick-hat-boecker.de/badge/osx/Copy%20Filepath%20With%20Line%20Numbers.svg/)](http://sublime-badge.nick-hat-boecker.de/) [![SublimeBadge](http://sublime-badge.nick-hat-boecker.de/badge/windows/Copy%20Filepath%20With%20Line%20Numbers.svg/)](http://sublime-badge.nick-hat-boecker.de/) [![SublimeBadge](http://sublime-badge.nick-hat-boecker.de/badge/linux/Copy%20Filepath%20With%20Line%20Numbers.svg/)](http://sublime-badge.nick-hat-boecker.de/)
+
+
 Copy filepath of current file with number of selected line(s)
 
 Tested on

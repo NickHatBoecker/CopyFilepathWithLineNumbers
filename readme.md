@@ -8,6 +8,7 @@ Copy filepath of current file with number of selected line(s)
 Tested on
 - Windows
 - Linux
+- MacOS
 
 Tested with
 - Sublime Text 3
@@ -49,4 +50,4 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
 ## Suport
 
-You want to buy me some chocolate milk? Feel free to: https://www.paypal.me/nickHatBoecker
+You like this plugin? Please consider buying me a ko-fi: https://ko-fi.com/nickhatboecker
